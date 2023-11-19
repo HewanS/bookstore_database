@@ -1,0 +1,131 @@
+.general{font-family:Arial,Helvetica;
+        font-size: 15px;
+        line-height: 1.5;
+         background-color: white;
+        /*background-color: #E87722;*/
+        color: #ffffff;
+        padding: 0;
+        margin: 0;
+        min-height:100%;
+
+        border-left: #dd550c 3px solid;
+        border-right: #dd550c 3px solid;
+        border-bottom: #03244d 3px solid;
+
+}  
+
+.heading{
+        background:  #03244d;
+        color: #ffffff;
+        text-align:center;
+        padding-top:30px;
+        min-height: 70px;
+        border-bottom: #dd550c 2px solid;
+}
+
+
+.querry-form{
+        height:90px;
+        width: 1000px;
+        font-size: 18px;
+        background-color: #c0c0c0;
+        text-decoration-color: white;
+        border-radius: 15px;
+}
+
+
+
+
+/*Tables*/
+.tables-Book{
+        margin-right: 240px;
+        float:left;
+        width: 35%;
+        font-size: 20px;
+
+}
+
+.tables-Customer{
+        margin-bottom: 60px;
+        float:left;
+        width: 35%;
+        font-size: 20px;
+
+}
+
+.tables-Employee{
+        margin-bottom: 45px;
+        float:left;
+        width: 35%;
+        font-size: 20px;
+
+}
+
+.tables-Order_detail{
+        margin-right: 180px;
+        float:left;
+        width: 35%;
+        font-size: 20px;
+
+}
+
+.tables-Orders{
+        margin-bottom: 60px;
+        float:left;
+        width: 35%;
+        font-size: 20px;
+
+}
+
+.tables-Shipper{
+        margin: 10px;
+        float:left;
+        width: 35%;
+        font-size: 20px;
+
+}
+
+.tables-Subjects{
+        margin: 10px;
+        float:left;
+        width: 35%;
+        font-size: 20px;
+
+}
+
+.tables-Supplier{
+        margin: 10px;
+        float:left;
+       width: 35%;
+        font-size: 20px;
+
+}
+
+.container{
+        width: 95%;
+        margin: auto;
+        margin-top: 15px;
+        /*margin-bottom: 15px*/
+        padding: 10px;
+        overflow: hidden;
+        background-color: #968375;
+}
+
+.querries{
+        text-align: center;
+        margin: auto;
+}
+
+.querry-submit{
+        margin-top: 10px;
+        margin-bottom: 26px;
+}
+
+
+.table-headings{
+        font-size: 35px;
+        color: black;
+
+}
+
+
